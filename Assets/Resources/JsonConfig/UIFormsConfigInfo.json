@@ -1,0 +1,24 @@
+﻿{
+  "ConfigInfo": [
+    { "Key": "本配置文件说明" },
+
+    {
+      "Key": "LoginUIForm",
+      "Value": "UIPrefabs\\Demo\\LoginUIForm"
+    },
+
+    {
+      "Key": "MainUIForm",
+      "Value": "UIPrefabs\\Demo\\MainUIForm"
+    },
+
+    {
+      "Key": "InfoUIForm",
+      "Value": "UIPrefabs\\Demo\\InfoUIForm"
+    },
+    {
+      "Key": "MarketUIForm",
+      "Value": "UIPrefabs\\Demo\\MarketUIForm"
+    }
+  ]
+}
